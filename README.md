@@ -43,7 +43,7 @@ For example, as route middleware in an [Express](http://expressjs.com/)
 application:
 
     app.get('/auth/buddy',
-      passport.authenticate('buddy'));
+      passport.authenticate('buddy', {scope: ['USER_EMAIL', 'MANAGE_EMAILS']}));
 
     app.get('/auth/buddy/callback', 
       passport.authenticate('buddy', { failureRedirect: '/login' }),
