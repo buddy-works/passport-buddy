@@ -27,17 +27,11 @@
       "url": "http://www.opensource.org/licenses/MIT"
     }
   ],
-  "main": "./lib",
+  "main": "./lib/passport-buddy",
   "dependencies": {
     "passport-oauth2": "1.x.x"
   },
-  "devDependencies": {
-    "vows": "0.8.x"
-  },
   "engines": {
     "node": ">= 0.4.0"
-  },
-  "scripts": {
-    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js test/**/*-test.js"
   }
 }

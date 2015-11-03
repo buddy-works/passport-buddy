@@ -52,13 +52,6 @@ application:
         res.redirect('/');
       });
 
-## Tests
-
-    $ npm install --dev
-    $ make test
-
-[![Build Status](https://secure.travis-ci.org/bylek/passport-buddy.png)](http://travis-ci.org/bylek/passport-buddy)
-
 ## Credits
 
   - [Paweł Kapała](http://github.com/bylek)
