@@ -54,11 +54,11 @@ application:
 
 ## Credits
 
-  - [Paweł Kapała](http://github.com/bylek)
+  - [Buddy](http://github.com/buddy-works)
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2015 Paweł Kapała
+Copyright (c) 2015 Buddy
 

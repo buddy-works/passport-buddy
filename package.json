@@ -10,16 +10,19 @@
     "authentication",
     "identity"
   ],
-  "author": {
-    "name": "Paweł Kapała",
-    "email": "bylek77@gmail.com"
-  },
+  "author": "Buddy Works",
+  "contributors": [
+    {
+      "name": "Paweł Kapala",
+      "email": "bylek77@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/bylek/passport-buddy.git"
+    "url": "http://github.com/buddy-works/passport-buddy.git"
   },
   "bugs": {
-    "url": "http://github.com/bylek/passport-buddy/issues"
+    "url": "http://github.com/buddy-works/passport-buddy/issues"
   },
   "licenses": [
     {
