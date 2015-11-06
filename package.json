@@ -32,7 +32,8 @@
   ],
   "main": "./lib/passport-buddy",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "1.x.x",
+    "pkginfo": "^0.3.1"
   },
   "engines": {
     "node": ">= 0.4.0"
