@@ -1,6 +1,6 @@
 {
   "name": "passport-buddy",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Buddy authentication strategy for Passport.",
   "keywords": [
     "passport",
