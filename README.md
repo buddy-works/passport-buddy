@@ -1,6 +1,6 @@
 # Passport-Buddy
 
-[Passport](http://passportjs.org/) strategy for authenticating with [Buddy](https://buddy.works/)
+[Passport](http://passportjs.org/) strategy for authenticating with [Buddy CI/CD](https://buddy.works/)
 using the OAuth 2.0 API.
 
 This module lets you authenticate using Buddy in your Node.js applications.
